@@ -1,0 +1,11 @@
+amplxe: Collection started. To stop the collection, either press CTRL-C or enter from another console window: amplxe-cl -r /raid/user/home/bn506/OMP_test/r002lw -command stop.
+ Starting
+ Array 1 made
+ Write done
+ Array 2 done
+  Results from omp_tasks run
+  Number of threads =            4
+ Total time =    169.658603000000     
+ Loop 1 time =    39.9104950000000     
+ Loop 2 time =    16.0930050000000     
+ Write time =    113.655103000000     
